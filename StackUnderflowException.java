@@ -1,4 +1,4 @@
-//package ch03.stacks;
+//package ch02.stacks;
 
 public class StackUnderflowException extends RuntimeException
 {
